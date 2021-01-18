@@ -3,9 +3,9 @@ Implement division of two positive integers without using the division, multipli
 Return the quotient as an integer, ignoring the remainder.
 """
 
-def division(a: int, b: int) -> int:
 
-    if a<b:
+def division(a: int, b: int) -> int:
+    if a < b:
         return 0
     if a == b:
         return 1

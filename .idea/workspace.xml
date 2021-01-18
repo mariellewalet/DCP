@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2af6f15-a88b-44d9-be16-95d458faa95d" name="Default Changelist" comment="Added extra problems">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/commun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/problem_610.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/problem_613.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem_610.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_610.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,28 +67,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.problem_608">
-    <configuration name="problem_152" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="DCP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_152.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.problem_613">
     <configuration name="problem_447" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DCP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,13 +152,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="problem_613" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DCP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problem_613.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.problem_613" />
         <item itemvalue="Python.problem_608" />
         <item itemvalue="Python.problem_460" />
         <item itemvalue="Python.problem_447" />
         <item itemvalue="Python.problem_449" />
-        <item itemvalue="Python.problem_152" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610393076272</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added extra problems">
+      <created>1610576701310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610576701310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -246,22 +251,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added extra problems" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="242" key="GridCell.Tab.0.bottom" timestamp="1610489229024">
+    <state width="1238" height="178" key="GridCell.Tab.0.bottom" timestamp="1611013957317">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="242" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1610489229024" />
-    <state width="1238" height="242" key="GridCell.Tab.0.center" timestamp="1610489229023">
+    <state width="1238" height="178" key="GridCell.Tab.0.bottom/0.25.1280.775@0.25.1280.775" timestamp="1611013957317" />
+    <state width="1238" height="178" key="GridCell.Tab.0.center" timestamp="1611013957316">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="242" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1610489229023" />
-    <state width="1238" height="242" key="GridCell.Tab.0.left" timestamp="1610489229022">
+    <state width="1238" height="178" key="GridCell.Tab.0.center/0.25.1280.775@0.25.1280.775" timestamp="1611013957316" />
+    <state width="1238" height="178" key="GridCell.Tab.0.left" timestamp="1611013957315">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="242" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1610489229022" />
-    <state width="1238" height="242" key="GridCell.Tab.0.right" timestamp="1610489229023">
+    <state width="1238" height="178" key="GridCell.Tab.0.left/0.25.1280.775@0.25.1280.775" timestamp="1611013957315" />
+    <state width="1238" height="178" key="GridCell.Tab.0.right" timestamp="1611013957317">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state width="1238" height="242" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1610489229023" />
+    <state width="1238" height="178" key="GridCell.Tab.0.right/0.25.1280.775@0.25.1280.775" timestamp="1611013957317" />
     <state width="1238" height="242" key="GridCell.Tab.1.bottom" timestamp="1610489229026">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
@@ -278,10 +283,10 @@
       <screen x="0" y="25" width="1280" height="775" />
     </state>
     <state width="1238" height="242" key="GridCell.Tab.1.right/0.25.1280.775@0.25.1280.775" timestamp="1610489229026" />
-    <state x="240" y="149" key="Vcs.Push.Dialog.v2" timestamp="1610393078412">
+    <state x="240" y="149" key="Vcs.Push.Dialog.v2" timestamp="1610576705328">
       <screen x="0" y="25" width="1280" height="775" />
     </state>
-    <state x="240" y="149" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1610393078412" />
+    <state x="240" y="149" key="Vcs.Push.Dialog.v2/0.25.1280.775@0.25.1280.775" timestamp="1610576705328" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
